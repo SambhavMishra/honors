@@ -1,0 +1,19 @@
+MERN ==> MongoDB ExpressJs ReactJs NodeJs
+
+There are different forms in NO-SQL
+- Column oriented
+- Document oriented 
+- key value oriented 
+
+TypeScript is where you have to specify the data type while defining the variable
+TypeScript code cannot be interpreted by the browser directly so tehre is a need to compile the typescript code into plain javascript code, for this purpose we need the syptescript compiler (tsc)
+Typescript compiler (tsc)
+written in typescript iteself.
+compiles .ts file to .js file 
+
+Features of typescript:
+object oriented language
+typescript is just javascript
+typescript supports other js libraries
+javascript is typescript
+
